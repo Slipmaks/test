@@ -1,0 +1,10 @@
+@import "mixins";
+@import "variables";
+
+* {
+  margin: 10px;
+  padding: 10px;
+}
+.hello {
+  color: $Colorizer;
+}
