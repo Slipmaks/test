@@ -2,8 +2,7 @@
 
 ### About Todo list
 
-All data saved in browser local storage
-You can add and filter your todos
+All data saved in browser local storage.You can easily add and filter your todos
 
 Technologies
 
@@ -13,6 +12,6 @@ Technologies
 
 ---
 
-[try Todo list](https://slipmaks.github.io/test/)
+[try Todo list](https://slipmaks.github.io/todoList_pureJS/)
 
 ---
